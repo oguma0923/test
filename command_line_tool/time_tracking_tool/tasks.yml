@@ -1,0 +1,8 @@
+---
+- !ruby/object:Task
+  date: 2021-12-23
+  name: task
+  state: 2
+  start_time: 2021-12-23 01:10:07.153519096 +09:00
+  pause_times: []
+  finish_time: 2021-12-23 01:12:25.031980695 +09:00
