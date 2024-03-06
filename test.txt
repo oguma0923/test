@@ -9,3 +9,5 @@ ddd
 hogee
 
 fixture剥がす
+
+消える作業１
