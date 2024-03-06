@@ -9,3 +9,5 @@ ddd
 hogee
 
 fixture剥がす
+
+bの別の作業１
