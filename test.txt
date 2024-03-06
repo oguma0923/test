@@ -1,15 +1,3 @@
-aaa
+消えない作業１
 
-bbb
-
-ccc
-
-ddd
-
-hogee
-
-fixture剥がす
-
-bの別の作業１
-
-bの別の作業２
+消えない作業２
